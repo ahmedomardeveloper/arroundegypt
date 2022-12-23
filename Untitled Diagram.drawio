@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T21:27:46.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="I8pzdD7vb4xletqz7fka" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T21:53:07.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6iGifa4cuzIXyG38ae2-" version="20.7.4" type="github">
   <diagram id="N-ye-lETz2JTy3j9Kj3N" name="Page-1">
-    <mxGraphModel dx="1655" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1986" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,8 +73,17 @@
         <mxCell id="pd-oybG8mUxYRVs1wByr-25" value="Number of Views" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Yg1EDi9jOsSUKMhMHwPn-20">
           <mxGeometry y="270" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pd-oybG8mUxYRVs1wByr-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="Yg1EDi9jOsSUKMhMHwPn-20" source="pd-oybG8mUxYRVs1wByr-24" target="Yg1EDi9jOsSUKMhMHwPn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pd-oybG8mUxYRVs1wByr-24" value="Number of Likes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Yg1EDi9jOsSUKMhMHwPn-20">
           <mxGeometry y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pd-oybG8mUxYRVs1wByr-47" value="Type Of Place" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Yg1EDi9jOsSUKMhMHwPn-20">
+          <mxGeometry x="5" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pd-oybG8mUxYRVs1wByr-48" value="City" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Yg1EDi9jOsSUKMhMHwPn-20">
+          <mxGeometry x="30" y="300" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yg1EDi9jOsSUKMhMHwPn-29" value="user review place" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-60" y="475" width="200" height="150" as="geometry" />
@@ -165,11 +174,8 @@
         <mxCell id="pd-oybG8mUxYRVs1wByr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="pd-oybG8mUxYRVs1wByr-21" target="Yg1EDi9jOsSUKMhMHwPn-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pd-oybG8mUxYRVs1wByr-26" value="محمد اسماعيلية&lt;br&gt;احمد اسماعيلية&lt;br&gt;محمد اسكندرية&lt;br&gt;اسامة اسكندرية" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-590" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pd-oybG8mUxYRVs1wByr-28" value="Packages" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="600" width="200" height="185" as="geometry" />
+          <mxGeometry x="1075" y="570" width="200" height="185" as="geometry" />
         </mxCell>
         <mxCell id="pd-oybG8mUxYRVs1wByr-29" value="&amp;nbsp;Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pd-oybG8mUxYRVs1wByr-28">
           <mxGeometry x="30" y="40" width="40" height="30" as="geometry" />
